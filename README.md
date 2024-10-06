@@ -32,7 +32,7 @@ obtener información relevante.
 
 > Python
 
-![alt text](https://i.redd.it/rxezjyf4ojx41.png)
+![alt text]([https://i.redd.it/rxezjyf4ojx41.png](https://kursus.my/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1ZuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d3e7d8b71ef914a3f835f9c9685ee19ec426d649/python.png))
 
 >Bibliotecas
 
