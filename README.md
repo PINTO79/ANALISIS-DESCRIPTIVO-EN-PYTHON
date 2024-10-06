@@ -50,9 +50,9 @@ obtener información relevante.
 import pandas as pd
 
 # Crear un DataFrame simple
-data = {'Nombre': ['Alejandro', 'Camila', 'Juan'],
-        'Edad': [21, 22, 23],
-        'Ciudad': ['Villavicencio', 'Bogotá', 'Cali']}
+data = {'Nombre': ['Juan', 'Sandra', 'Tomas'],
+        'Edad': [20, 32, 15],
+        'Ciudad': ['Ibague', 'Bogotá', 'Medellin']}
 
 df = pd.DataFrame(data)
 
